@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  border: 10%;
+  margin:auto;
+  padding: inherit;
+  color: #947;
+  background-color: grey;
+}
+ul {
+  text-align: center;
+  border: 10%;
+  margin:auto;
+  padding: inherit;
+  color: #947;
+}
